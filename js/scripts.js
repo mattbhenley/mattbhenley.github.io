@@ -20,8 +20,8 @@ window.onload = function() {
     'I\'m Matt Henley',
     'I\'m a software engineer and web developer 👨‍💻',
     'I have a love for learning, programming, and technology',
-    'Got any questions or job opportunities? <br> You can contact me at <a href="mailto:mattbhenley@gmail.com">mattbhenley@gmail.com</a>',
-    'Feel free to check out my work! <br><a target="_blank" href="https://github.com/mattbhenley">github.com/mattbhenley</a><br><a target="_blank" href="https://codepen.io/mattbhenley">codepen.io/mattbhenley</a>',
+    'Have any questions or job opportunities? <br> You can contact me at <a href="mailto:mattbhenley@gmail.com">mattbhenley@gmail.com</a>',
+    'Feel free to check out my work! <br><a target="_blank" href="https://github.com/mattbhenley">github.com/mattbhenley</a><br><a target="_blank" href="https://codepen.io/mattbhenley">codepen.io/mattbhenley</a><br><a target="_blank" href="https://dev.to/mattbhenley">dev.to/mattbhenley</a>',
     getCurrentTime(),
     '😊'
   ]
