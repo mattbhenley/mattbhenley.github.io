@@ -18,7 +18,7 @@ window.onload = function() {
   var messages = [
     'Hello! 👋',
     'I\'m Matt Henley',
-    'I\'m a software engineer specializing in full-stack development, testing, and networking 👨‍💻',
+    'I\'m a full-stack engineer that specializes in development and testing 👨‍💻',
     'I have a love for learning, programming, and technology',
     'Have any questions or job opportunities? <br> You can contact me at <a href="mailto:mattbhenley@gmail.com">mattbhenley@gmail.com</a>',
     'Feel free to check out my work! <br><a target="_blank" href="https://github.com/mattbhenley">github.com/mattbhenley</a><br><a target="_blank" href="https://codepen.io/mattbhenley">codepen.io/mattbhenley</a>',
