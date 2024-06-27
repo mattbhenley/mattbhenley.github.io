@@ -18,7 +18,7 @@ window.onload = function() {
   var messages = [
     'Hello! 👋',
     'I\'m Matt Henley',
-    'I\'m a full-stack engineer, full-time dad, tech enthusiast, customer advocate, and more 👨‍💻',
+    'I\'m a an engineer, dad, tech enthusiast, customer advocate, and more 👨‍💻',
     'I have a love for learning, programming, and technology',
     'Have any questions or job opportunities? <be> Shoot me an email <a href="mailto:mattbhenley@gmail.com">mattbhenley@gmail.com</a>',
     'Let\'s connect too! <br><a target="_blank" href="https://github.com/mattbhenley">github.com/mattbhenley</a><br><a target="_blank" href="https://www.linkedin.com/in/matt-henley/">linkedin.com/matt-henley</a>',
